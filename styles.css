@@ -28,5 +28,8 @@
 /* ----------------------------------------------------------------------------------------------------------- */
 
 .flex-direction {
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; /* Alinha os itens verticalmente dentro do contêiner. */
 }
