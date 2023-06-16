@@ -13,6 +13,14 @@
 /* ----------------------------------------------------------------------------------------------------------- */
 
 .flex-direction {
+    display: flex; 
+    flex-direction: row;  /* define a direção principal do fluxo dos itens como horizontal. */
+}
+
+
+
+.flex-direction {
+    display: flex;
     flex-direction: row;
-    display: flex;  /* define a direção principal do fluxo dos itens como horizontal. */
+    ustify-content: center
 }
