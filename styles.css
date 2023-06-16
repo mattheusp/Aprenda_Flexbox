@@ -1,22 +1,18 @@
 /* Começamos criando uma classe chamada .container para o elemento que será o contêiner principal do flexbox. */
 
-.container {
+.container {    /* Ativar o 
 
 }
 
 
 
 /* ----------------------------------------------------------------------------------------------------------- 
-
-
 A propriedade display: flex é aplicada ao .container para ativarmos o flexbox no elemento. Isso permite que ele se torne um contêiner flexível para os itens dentro dele. */
 
 
 .container {
     display: flex;
 }
-
-
 /* ----------------------------------------------------------------------------------------------------------- 
 
 
