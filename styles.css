@@ -33,3 +33,9 @@
     justify-content: center;
     align-items: center; /* Alinha os itens verticalmente dentro do contêiner. */
 }
+
+/* ----------------------------------------------------------------------------------------------------------- */
+
+.item {  /* para cada item dentro do contêiner flex. */
+     
+}
