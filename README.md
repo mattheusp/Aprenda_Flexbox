@@ -2,6 +2,8 @@
 
 Este repositório contém exemplos e explicações detalhadas sobre o uso do Flexbox para criação de layouts responsivos e flexíveis em CSS.
 
+ ![Aprenda Flexbox](/flex%20box%20css.png)
+
 ## O que é o Flexbox? 🤔
 
 O Flexbox é um módulo do CSS que permite criar layouts flexíveis e responsivos. Com ele, você pode facilmente alinhar, distribuir e redimensionar elementos em um container, tornando a criação de layouts mais eficiente e intuitiva.
