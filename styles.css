@@ -36,12 +36,9 @@
 
 /* ----------------------------------------------------------------------------------------------------------- */
 
-.item {  /* ]Para cada item dentro do contêine. */
-
+.item {  /* Para cada item dentro do contêine. */
+    flex: 1 /*  Neste caso, todos os itens terão o mesmo tamanho. */
 }
 
 /* ----------------------------------------------------------------------------------------------------------- */
 
-.item { 
-    flex: 1 /*  Neste caso, todos os itens terão o mesmo tamanho. */
-}
