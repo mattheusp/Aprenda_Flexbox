@@ -4,7 +4,10 @@
 
 }
 
+
+
 /* ----------------------------------------------------------------------------------------------------------- 
+
 
 A propriedade display: flex é aplicada ao .container para ativarmos o flexbox no elemento. Isso permite que ele se torne um contêiner flexível para os itens dentro dele. */
 
@@ -12,6 +15,7 @@ A propriedade display: flex é aplicada ao .container para ativarmos o flexbox n
 .container {
     display: flex;
 }
+
 
 /* ----------------------------------------------------------------------------------------------------------- 
 
